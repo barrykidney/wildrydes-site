@@ -1,0 +1,9 @@
+arn:aws:dynamodb:eu-west-1:580903850690:table/Rides
+
+URL: https://development.dq4z0gdm7keh3.amplifyapp.com/
+
+bod@gm
+wifi password
+
+API gateway
+ Invoke URL: https://5eq7r97z7g.execute-api.eu-west-1.amazonaws.com/prod
